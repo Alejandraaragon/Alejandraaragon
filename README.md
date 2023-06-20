@@ -1,4 +1,4 @@
-                                      <strong><<<<<   HOLA MUNDO!!!! 👋   >>>>></strong> 
+                                           <<<<<   HOLA MUNDO!!!! 👋   >>>>>
 
 Mi nombre es Alejandra 😍, una apasionada desarrolladora web con experiencia en Node.js, Express, React, JavaScript, MongoDB, Y bases de datos SQL en general. Me encanta enfrentarme a desafios nuevos y encontrar soluciones creativas a problemas complejos.
 
@@ -10,7 +10,9 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 
 
 ## Tecnologías:
-<table><tr><td valign="top" width="50%">
+<table>
+  <tr>
+    <td valign="top" width="50%" text-aligne="center">
 
 ### Front-end  
 <div align="center">  
@@ -33,7 +35,8 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 
 </div>
 
-</td><td valign="top" width="25%">
+</td>
+<td valign="top" width="50%">
 
 
 
@@ -47,7 +50,8 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>   
 </div>
 
-</td><td valign="top" width="25%">
+</td>
+<td valign="top" width="50%">
 
 ### Database 
 <div align="center">  
@@ -68,7 +72,8 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
  
 </div>
 
-</td><td valign="top" width="25%">
+</td>
+<td valign="top" width="50%">
 
 ### DevOps  
 <div align="center">  
@@ -87,7 +92,8 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
   
 </div>
 
-</td><td valign="top" width="25%"> 
+</td>
+<td valign="top" width="50%"> 
   
 
 ### Tools
