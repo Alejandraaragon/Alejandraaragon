@@ -24,12 +24,10 @@ Se que este camino recién empieza y soy muy feliz de que sea con toda la motiva
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
   
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  
-<a href="https://handlebarsjs.com/" target="_blank"><img style="margin: 10px" src="" alt="Handlebars.js" height="50" /></a>  
 
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="redux.js" height="50" /></a> 
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux.png" alt="redux.js" height="50" /></a> 
 
-<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap.png" alt="bootstrap" height="50" /></a> 
+<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@latest/bootstrap-icons.min.css" alt="bootstrap" height="50" /></a> 
 
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://mui.com/static/logo.png" alt="mui" height="50" /></a> 
 
@@ -61,9 +59,9 @@ Se que este camino recién empieza y soy muy feliz de que sea con toda la motiva
 
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="50" /></a> 
  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql.png" alt="postgresql" height="50" /></a> 
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" height="50" /></a> 
 
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img style="margin: 10px" src="https://www.muylinux.com/2017/09/25/sql-server-2017-linux/" alt="SQLServer" height="50" /></a> 
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img style="margin: 10px" src="https://www.muylinux.com/2017/09/25/sql-server-2017-linux/" alt="SQL_Server" height="50" /></a> 
 
 <a href="https://www.oracle.com/co/" target="_blank"><img style="margin: 10px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fsoloelectronicos.files.wordpress.com%2F2019%2F09%2Ftendencias-licenciamiento-oracle.png&tbnid=aPJjmA-BtsSzLM&vet=12ahUKEwiM2rmb6ND_AhUFUzUKHYklBQ0QMygHegUIARD1AQ..i&imgrefurl=https%3A%2F%2Fsoloelectronicos.com%2F2019%2F09%2F15%2Fcomo-se-puede-probar-la-conectividad-de-oracle%2F&docid=8UZmOwvga8v2VM&w=660&h=440&q=imagen%20de%20oracle&hl=es&ved=2ahUKEwiM2rmb6ND_AhUFUzUKHYklBQ0QMygHegUIARD1AQ" alt="Oracle" height="50" /></a> 
 
@@ -74,16 +72,41 @@ Se que este camino recién empieza y soy muy feliz de que sea con toda la motiva
 
 ### DevOps  
 <div align="center">  
+  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+
+<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vercel.png" alt="Git" height="50" /></a>  
+
+<a href="https://railway.app/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
    
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+
+  
+</div>
+
+</td><td valign="top" width="25%"> 
+  
+
+### Otras Herramientas
+<div align="center">  
+
+
+
+<a href="https://trello.com/home" target="_blank"><img style="margin: 10px" src="" alt="Trello" height="50" /></a>  
+   
+<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
+
+<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+
   
 </div>
 
 </td><td valign="top" width="25%"></tr></table>  
 
 <br/>  
+
+
 
 
 ## Contactate conmigo:  
