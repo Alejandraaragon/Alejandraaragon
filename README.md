@@ -12,7 +12,7 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 ## Technologies:
 <table>
   <tr>
-    <td valign="top" width="50%" text-align="center">
+    <td valign="top" width="25%" text-align="center">
 
 ### Front-end  
 <div align="center">  
@@ -48,7 +48,7 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 </div>
 
 </td>
-<td valign="top" width="50%" text-align="center">
+<td valign="top" width="25%" text-align="center">
 
 
 ### Back-end  
@@ -69,7 +69,7 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 </div>
 
 </td>
-<td valign="top" width="50%" text-align="center">
+<td valign="top" width="25%" text-align="center">
 
 ### Database 
 <div align="center">  
@@ -102,7 +102,7 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 </div>
 
 </td>
-<td valign="top" width="50%" text-align="center">
+<td valign="top" width="25%" text-align="center">
 
 ### DevOps  
 <div align="center">  
@@ -132,7 +132,7 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 </div>
 
 </td>
-<td valign="top" width="50%" text-align="center"> 
+<td valign="top" width="25%" text-align="center"> 
   
 
 ### Tools
