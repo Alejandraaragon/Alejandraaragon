@@ -75,9 +75,9 @@ Se que este camino recién empieza y soy muy feliz de que sea con toda la motiva
   
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 
-<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vercel.png" alt="Git" height="50" /></a>  
+<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vercel.png" alt="Vercel" height="50" /></a>  
 
-<a href="https://railway.app/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://railway.app/" target="_blank"><img style="margin: 10px" src="" alt="Railway" height="50" /></a>
 
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
    
@@ -88,16 +88,16 @@ Se que este camino recién empieza y soy muy feliz de que sea con toda la motiva
 </td><td valign="top" width="25%"> 
   
 
-### Otras Herramientas
+### Tools
 <div align="center">  
 
 
 
 <a href="https://trello.com/home" target="_blank"><img style="margin: 10px" src="" alt="Trello" height="50" /></a>  
    
-<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
+<a href="https://docs.google.com/spreadsheets/u/0/" target="_blank"><img style="margin: 10px" src="" alt="Google_Sheets" height="50" /></a> 
 
-<a href="" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://mailchimp.com/es/" target="_blank"><img style="margin: 10px" src="https://mailchimp.com/es/" alt="Mailchimp" height="50" /></a>  
 
   
 </div>
