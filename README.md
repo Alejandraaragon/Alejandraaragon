@@ -79,7 +79,7 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 </a> 
 
 <a href="https://www.mysql.com/" target="_blank">
- <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_mysql.svg/200px-Logo_mysql.svg.png" alt="MySQL" height="50" />
+ <img style="margin: 10px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="50" />
 </a>
 
 <a href="https://mariadb.org/" target="_blank">
