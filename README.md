@@ -34,11 +34,11 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 </a>  
 
 <a href="https://redux.js.org/" target="_blank">
- <img style="margin: 10px" src="" alt="redux.js" height="50" />
+ <img style="margin: 10px" src="https://redux.js.org/img/redux-logo-landscape.png" alt="redux.js" height="50" />
 </a> 
 
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">
- <img style="margin: 10px" src="" height="50" />
+ <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/200px-Bootstrap_logo.svg.png" height="50" />
 </a> 
 
 <a href="https://mui.com/" target="_blank">
@@ -91,11 +91,11 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 </a> 
 
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
- <img style="margin: 10px" src="" alt="SQL_Server" height="50" />
+ <img style="margin: 10px" src="https://www.diegogiacomelli.com.br/images/posts/sql-server-logo.png" alt="SQL_Server" height="50" />
 </a> 
 
 <a href="https://www.oracle.com/co/" target="_blank">
- <img style="margin: 10px" src="" alt="Oracle" height="50" />
+ <img style="margin: 10px" src="https://www.oracle.com/a/ocom/img/cb71-database.svg" alt="Oracle" height="50" />
 </a> 
 
  
@@ -116,7 +116,7 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 </a> 
 
 <a href="https://vercel.com/" target="_blank">
- <img style="margin: 10px" src="" alt="Vercel" height="50" />
+ <img style="margin: 10px" src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" alt="Vercel" height="50" />
 </a>  
 
 <a href="https://railway.app/" target="_blank">
@@ -139,11 +139,11 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 <div align="center">  
 
 <a href="https://trello.com/home" target="_blank">
- <img style="margin: 10px" src="" alt="Trello" height="50" />
+ <img style="margin: 10px" src="https://a.trellocdn.com/prgb/dist/images/header-logo-2x.01ef898811a879595cea.png" alt="Trello" height="50" />
 </a>  
    
 <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank">
- <img style="margin: 10px" src="" alt="Google_Sheets" height="50" />
+ <img style="margin: 10px" src="https://www.gstatic.com/images/branding/product/1x/apps_script_48dp.png" alt="Google_Sheets" height="50" />
 </a> 
 
 <a href="https://mailchimp.com/es/" target="_blank">
