@@ -119,7 +119,6 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
  <img style="margin: 10px" src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" alt="Vercel" height="50" />
 </a>  
 
-
 <a href="https://cloud.google.com/" target="_blank">
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
 </a>  
@@ -136,7 +135,7 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 <div align="center">  
 
 <a href="https://trello.com/home" target="_blank">
- <img style="margin: 10px" src="https://a.trellocdn.com/prgb/dist/images/trello-logo-blue.svg" alt="Logo de Trello" width="200" style="filter: brightness(30%);" alt="Trello" height="50" />
+ <img style="margin: 10px" src="https://a.trellocdn.com/prgb/dist/images/header-logo-2x.01ef898811a879595cea.png" alt="Logo de Trello" width="200" style="filter: brightness(30%);" alt="Trello" height="50" />
 </a>  
    
 <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank">
