@@ -90,14 +90,6 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
  <img style="margin: 10px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" height="50" />
 </a> 
 
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
- <img style="margin: 10px" src="https://www.diegogiacomelli.com.br/images/posts/sql-server-logo.png" alt="SQL_Server" height="50" />
-</a> 
-
-<a href="https://www.oracle.com/co/" target="_blank">
- <img style="margin: 10px" src="https://www.oracle.com/a/ocom/img/cb71-database.svg" alt="Oracle" height="50" />
-</a> 
-
  
 </div>
 
