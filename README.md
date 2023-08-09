@@ -62,6 +62,14 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 </a> 
 
+<a href="https://www.ruby-lang.org/es/" target="_blank">
+ <img style="margin: 10px" src="https://w7.pngwing.com/pngs/535/618/png-transparent-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-logo.png" alt="Ruby" height="50" />
+</a> 
+
+<a href="https://rubyonrails.org/" target="_blank">
+ <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0WXmxKDNHfB5Rf5w1fDBEZKoB6W7CDbNB8dRnzG2G&s" alt="Ruby on Rails" height="50" />
+</a> 
+
 <a href="https://www.gnu.org/software/bash/" target="_blank">
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
 </a>   
