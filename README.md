@@ -41,10 +41,6 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/200px-Bootstrap_logo.svg.png" height="50" />
 </a> 
 
-<a href="https://mui.com/" target="_blank">
- <img style="margin: 10px" src="https://mui.com/static/logo.png" alt="mui" height="50" />
-</a> 
-
 </div>
 
 </td>
