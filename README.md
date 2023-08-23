@@ -1,6 +1,6 @@
                                            <<<<<   HOLA MUNDO!!!! 👋   >>>>>
 
-Mi nombre es Alejandra 😍, una apasionada desarrolladora web con experiencia en Node.js, Express, React, JavaScript, MongoDB, Y bases de datos SQL en general. Me encanta enfrentarme a desafios nuevos y encontrar soluciones creativas a problemas complejos.
+Mi nombre es Alejandra 😍, una apasionada desarrolladora web con experiencia en Node.js, Express, React, JavaScript, Ruby, Ruby On Rails, MongoDB, Y bases de datos SQL en general. Me encanta enfrentarme a desafios nuevos y encontrar soluciones creativas a problemas complejos.
 
 Mi camino hacia la programacion inició durante el 2020, a lo largo de este tiempo he venido estudiando sin parar y desarrollando proyectos propios y grupales, en los que he adquirido experiencia especialmente en el diseño, creacion y gestion de bases de datos SQL y NoSQL, junto a su respectiva conexion con el servidor. Tambien en relacion a Front-end he creado multiples proyectos utilizando distintos frameworks para hacer de la interfaz grafica una gran experiencia de usuario. Esta versatilidad me ha permitido trabajar en varios proyectos completos de principio a fin.
 
