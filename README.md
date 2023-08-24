@@ -1,4 +1,4 @@
-                                           <<<<<   HOLA MUNDO!!!! 👋   >>>>>
+                                     <<<<<   HOLA MUNDO!!!! 👋   >>>>>
 
 Mi nombre es Alejandra 😍, una apasionada desarrolladora web con experiencia en Node.js, React, JavaScript, Ruby, Ruby On Rails, MongoDB, Y bases de datos SQL en general. Me encanta enfrentarme a desafios nuevos y encontrar soluciones creativas a problemas complejos.
 
