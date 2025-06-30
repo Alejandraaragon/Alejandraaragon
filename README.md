@@ -33,10 +33,6 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 </a>  
 
-<a href="https://redux.js.org/" target="_blank">
- <img style="margin: 10px" src="https://redux.js.org/img/redux-logo-landscape.png" alt="redux.js" height="50" />
-</a> 
-
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">
  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/200px-Bootstrap_logo.svg.png" height="50" />
 </a> 
