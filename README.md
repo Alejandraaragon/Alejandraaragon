@@ -1,11 +1,11 @@
 Hola, soy Alejandra 👋 | Frontend Developer 
 
-
+<br>
 Creo productos digitales donde la estética y el código convergen. Mi pasión es el desarrollo Frontend, especializándome en construir experiencias de usuario memorables y visualmente sofisticadas.
 
 Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e-commerce en Shopify y WordPress. Utilizo Antigravity para elevar el diseño mediante movimiento y micro-interacciones, garantizando productos finales rápidos, escalables y visualmente impecables.
 
-
+<br>
 
 ## Habilidades:
 <table>
@@ -31,10 +31,6 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 </a>  
 
-<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">
- <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/200px-Bootstrap_logo.svg.png" height="50" />
-</a> 
-
 <a href="https://nodejs.org/" target="_blank">
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 </a>  
@@ -58,24 +54,24 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 <div align="center">  
  
 <a href="https://wordpress.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress-standard.svg" alt="WordPress" height="50" />
+ <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" alt="WordPress" height="50" />
 </a>
 
 <a href="https://woocommerce.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce-official.svg" alt="WooCommerce" height="50" />
+ <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" alt="WooCommerce" height="50" />
 </a>
 
 <a href="https://elementor.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/elementor.svg" alt="Elementor" height="50" />
+ <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/elementor.svg" alt="Elementor" height="50" />
 </a>
 
 <a href="https://crocoblock.com/" target="_blank">
-  <img style="margin: 10px" src="https://crocoblock.com/wp-content/uploads/2018/07/Crocoblock_logo_new.svg" alt="Crocoblock" height="50" />
+ <img style="margin: 10px" src="https://static.crocoblock.com/wp-content/uploads/2021/03/crocoblock-logo-v2.svg" alt="Crocoblock" height="50" />
 </a>
 
 <a href="https://www.shopify.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/shopify-logo.svg" alt="Shopify" height="50" />
-</a> 
+ <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" height="50" />
+</a>
 
 </div>
 
@@ -86,15 +82,15 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 <div align="center">  
  
 <a href="https://www.figma.com/" target="_blank">
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+ <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" height="50" />
 </a>
 
 <a href="https://antigravity.lat/" target="_blank">
- <img style="margin: 10px" src="https://antigravity.lat/wp-content/uploads/2023/03/logo-antigravity.png" alt="Antigravity" height="50" />
+ <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/antigravity.svg" alt="Antigravity" height="50" />
 </a>
 
 <a href="https://cloud.google.com/" target="_blank">
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Cloud" height="50" />
+ <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Cloud" height="50" />
 </a>
 
  
