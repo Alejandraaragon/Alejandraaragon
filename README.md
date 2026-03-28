@@ -2,7 +2,7 @@ Hola, soy Alejandra 👋 | Frontend Developer
 
 <br>
 Creo productos digitales donde la estética y el código convergen. Mi pasión es el desarrollo Frontend, especializándome en construir experiencias de usuario memorables y visualmente sofisticadas.
-<br>
+<br><br>
 Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e-commerce en Shopify y WordPress. Utilizo Antigravity para elevar el diseño mediante movimiento y micro-interacciones, garantizando productos finales rápidos, escalables y visualmente impecables.
 
 <br>
@@ -62,14 +62,14 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </a>
 
 <a href="https://elementor.com/" target="_blank">
- <img style="margin: 10px; filter: invert(36%) sepia(90%) saturate(1265%) hue-rotate(305deg) brightness(92%) contrast(92%);" 
-     src="https://simpleicons.org/icons/elementor.svg" 
-     alt="Elementor" height="50" />
+ <img style="margin: 10px" src="https://simpleicons.org/icons/elementor.svg" alt="Elementor" height="50" />
 </a>
 
-
 <a href="https://crocoblock.com/" target="_blank">
- <img style="margin: 10px" src="https://raw.githubusercontent.com/Crocoblock/crocoblock-assets/master/crocoblock-logo/crocoblock-icon.svg" alt="Crocoblock" height="50" />
+  <img style="margin: 10px" 
+       src="https://api.iconify.design/logos:crocoblock-icon.svg" 
+       alt="Crocoblock" 
+       height="50" />
 </a>
 
 <a href="https://www.shopify.com/" target="_blank">
@@ -89,11 +89,11 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </a>
 
 <a href="https://antigravity.lat/" target="_blank">
- <img style="margin: 10px" src="https://antigravity.lat/wp-content/uploads/2023/03/logo-antigravity.png" alt="Antigravity" height="50" />
+ <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/antigravity/antigravity-icon.svg" alt="Antigravity" height="50" />
 </a>
 
 <a href="https://www.anthropic.com/claude" target="_blank">
- <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="Claude AI" height="50" />
+ <img style="margin: 10px" src="https://api.iconify.design/logos:anthropic-icon.svg" alt="Claude AI" height="50" />
 </a>
 
  
