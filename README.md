@@ -35,22 +35,9 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/200px-Bootstrap_logo.svg.png" height="50" />
 </a> 
 
-</div>
-
-</td>
-<td valign="top" width="33%" text-align="center">
-
-
-### CMS & Constructores  
-<div align="center">  
- 
 <a href="https://nodejs.org/" target="_blank">
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 </a>  
-  
-<a href="https://expressjs.com/" target="_blank">
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-</a> 
 
 <a href="https://www.ruby-lang.org/es/" target="_blank">
  <img style="margin: 10px" src="https://w7.pngwing.com/pngs/535/618/png-transparent-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-logo.png" alt="Ruby" height="50" />
@@ -60,9 +47,35 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
  <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0WXmxKDNHfB5Rf5w1fDBEZKoB6W7CDbNB8dRnzG2G&s" alt="Ruby on Rails" height="50" />
 </a> 
 
-<a href="https://www.gnu.org/software/bash/" target="_blank">
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-</a>   
+
+</div>
+
+</td>
+<td valign="top" width="33%" text-align="center">
+
+
+### CMS & Constructores  
+<div align="center">  
+ 
+<a href="https://wordpress.org/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress-standard.svg" alt="WordPress" height="50" />
+</a>
+
+<a href="https://woocommerce.com/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce-official.svg" alt="WooCommerce" height="50" />
+</a>
+
+<a href="https://elementor.com/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/elementor.svg" alt="Elementor" height="50" />
+</a>
+
+<a href="https://crocoblock.com/" target="_blank">
+  <img style="margin: 10px" src="https://crocoblock.com/wp-content/uploads/2018/07/Crocoblock_logo_new.svg" alt="Crocoblock" height="50" />
+</a>
+
+<a href="https://www.shopify.com/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/shopify-logo.svg" alt="Shopify" height="50" />
+</a> 
 
 </div>
 
@@ -72,21 +85,17 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 ### Otras herramientas 
 <div align="center">  
  
-<a href="https://www.mongodb.com/" target="_blank">
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-</a> 
-
-<a href="https://www.mysql.com/" target="_blank">
- <img style="margin: 10px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="50" />
+<a href="https://www.figma.com/" target="_blank">
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
 </a>
 
-<a href="https://mariadb.org/" target="_blank">
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="50" />
-</a> 
- 
-<a href="https://www.postgresql.org/" target="_blank">
- <img style="margin: 10px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" height="50" />
-</a> 
+<a href="https://antigravity.lat/" target="_blank">
+ <img style="margin: 10px" src="https://antigravity.lat/wp-content/uploads/2023/03/logo-antigravity.png" alt="Antigravity" height="50" />
+</a>
+
+<a href="https://cloud.google.com/" target="_blank">
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Cloud" height="50" />
+</a>
 
  
 </div>
