@@ -62,11 +62,11 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </a>
 
 <a href="https://elementor.com/" target="_blank">
- <img style="margin: 10px" src="[https://cdn.worldvectorlogo.com/logos/elementor.svg](https://ampforwp.com/wp-content/uploads/2020/03/icon-1-1024x1024.jpg)" alt="Elementor" height="50" />
+ <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/elementor/elementor-icon.svg" alt="Elementor" height="50" />
 </a>
 
 <a href="https://crocoblock.com/" target="_blank">
- <img style="margin: 10px" src="https://static.crocoblock.com/wp-content/uploads/2021/03/crocoblock-logo-v2.svg" alt="Crocoblock" height="50" />
+ <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/crocoblock/crocoblock-icon.svg" alt="Crocoblock" height="50" />
 </a>
 
 <a href="https://www.shopify.com/" target="_blank">
@@ -82,15 +82,15 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 <div align="center">  
  
 <a href="https://www.figma.com/" target="_blank">
- <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" height="50" />
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
 </a>
 
 <a href="https://antigravity.lat/" target="_blank">
- <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/antigravity.svg" alt="Antigravity" height="50" />
+ <img style="margin: 10px" src="https://antigravity.lat/wp-content/uploads/2023/03/logo-antigravity.png" alt="Antigravity" height="50" />
 </a>
 
-<a href="https://cloud.google.com/" target="_blank">
- <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Cloud" height="50" />
+<a href="https://www.anthropic.com/claude" target="_blank">
+ <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="Claude AI" height="50" />
 </a>
 
  
