@@ -78,8 +78,8 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </a>
 
 <a href="https://antigravity.lat/" target="_blank">
-  <img style="margin: 10px" src="https://i.ibb.co/ycQVMcRj/antigravity.png" alt="Antigravity" height="50" />
-</a>
+    <img style="margin: 10px" src="https://i.ibb.co/HD9P1Jbs/antigravity.png" alt="Antigravity" height="50" />
+  </a>
 
 <a href="https://www.anthropic.com/claude" target="_blank">
   <img style="margin: 10px" src="https://i.ibb.co/pv7hLShF/crocoblock.png" alt="Claude AI" height="50" />
