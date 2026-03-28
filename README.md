@@ -2,7 +2,7 @@ Hola, soy Alejandra 👋 | Frontend Developer
 
 <br>
 Creo productos digitales donde la estética y el código convergen. Mi pasión es el desarrollo Frontend, especializándome en construir experiencias de usuario memorables y visualmente sofisticadas.
-
+<br>
 Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e-commerce en Shopify y WordPress. Utilizo Antigravity para elevar el diseño mediante movimiento y micro-interacciones, garantizando productos finales rápidos, escalables y visualmente impecables.
 
 <br>
@@ -62,11 +62,11 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </a>
 
 <a href="https://elementor.com/" target="_blank">
- <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/elementor/elementor-icon.svg" alt="Elementor" height="50" />
+ <img style="margin: 10px" src="https://simpleicons.org/icons/elementor.svg" alt="Elementor" height="50" />
 </a>
 
 <a href="https://crocoblock.com/" target="_blank">
- <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/crocoblock/crocoblock-icon.svg" alt="Crocoblock" height="50" />
+ <img style="margin: 10px" src="https://raw.githubusercontent.com/Crocoblock/crocoblock-assets/master/crocoblock-logo/crocoblock-icon.svg" alt="Crocoblock" height="50" />
 </a>
 
 <a href="https://www.shopify.com/" target="_blank">
