@@ -66,7 +66,7 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </a>
 
 <a href="https://crocoblock.com/" target="_blank">
-  <img style="margin: 10px" src="img/crocoblock.png" alt="Crocoblock" height="50" />
+  <img style="margin: 10px" src="file:///C:/Users/aleji/OneDrive/Im%C3%A1genes/OIP.webp" alt="Crocoblock" height="50" />
 </a>
 
 <a href="https://www.shopify.com/" target="_blank">
