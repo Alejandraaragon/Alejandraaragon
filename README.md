@@ -65,12 +65,8 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
  <img style="margin: 10px" src="https://simpleicons.org/icons/elementor.svg" alt="Elementor" height="50" />
 </a>
 
-<a href="https://crocoblock.com/" target="_blank" style="text-decoration: none; display: inline-block;">
-  <svg style="margin: 10px;" width="50" height="50" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M64 0L119.426 32V96L64 128L8.57437 96V32L64 0Z" fill="#31C39A"/>
-    <path d="M64 25.6L99.2 45.92V82.08L64 102.4L28.8 82.08V45.92L64 25.6Z" fill="white"/>
-    <path d="M48 54.4H80V60.8H48V54.4ZM48 67.2H80V73.6H48V67.2Z" fill="#31C39A"/>
-  </svg>
+<a href="https://crocoblock.com/" target="_blank">
+  <img style="margin: 10px" src="img/crocoblock.png" alt="Crocoblock" height="50" />
 </a>
 
 <a href="https://www.shopify.com/" target="_blank">
