@@ -66,7 +66,7 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </a>
 
 <a href="https://crocoblock.com/" target="_blank">
-  <img style="margin: 10px" src="file:///C:/Users/aleji/OneDrive/Im%C3%A1genes/OIP.webp" alt="Crocoblock" height="50" />
+  <img style="margin: 10px" src="https://i.ibb.co/pv7hLShF/crocoblock.png" alt="Crocoblock" height="50" />
 </a>
 
 <a href="https://www.shopify.com/" target="_blank">
@@ -86,11 +86,11 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </a>
 
 <a href="https://antigravity.lat/" target="_blank">
-  <img style="margin: 10px" src="https://postimg.cc/1fr7gjyt" alt="Antigravity" height="50" />
+  <img style="margin: 10px" src="https://i.ibb.co/ycQVMcRj/antigravity.png" alt="Antigravity" height="50" />
 </a>
 
 <a href="https://www.anthropic.com/claude" target="_blank">
-  <img style="margin: 10px" src="https://postimg.cc/4mQ2KSXx" alt="Claude AI" height="50" />
+  <img style="margin: 10px" src="https://i.ibb.co/jP1wYvJz/claude.png" alt="Claude AI" height="50" />
 </a>
 
 
