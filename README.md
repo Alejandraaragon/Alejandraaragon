@@ -12,7 +12,7 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
   <tr>
     <td valign="top" width="33%" text-align="center">
 
-### Tecnologias
+### Tecnologías
 <div align="center">  
   
 <a href="https://reactjs.org/" target="_blank">
@@ -29,15 +29,7 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
   
 <a href="https://www.javascript.com/" target="_blank">
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-</a>  
-
-<a href="https://nodejs.org/" target="_blank">
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-</a>  
-
-<a href="https://www.ruby-lang.org/es/" target="_blank">
- <img style="margin: 10px" src="https://w7.pngwing.com/pngs/535/618/png-transparent-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-logo.png" alt="Ruby" height="50" />
-</a> 
+</a>   
 
 <a href="https://rubyonrails.org/" target="_blank">
  <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0WXmxKDNHfB5Rf5w1fDBEZKoB6W7CDbNB8dRnzG2G&s" alt="Ruby on Rails" height="50" />
@@ -86,7 +78,7 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </a>
 
 <a href="https://antigravity.lat/" target="_blank">
-  <img style="margin: 10px" src="https://ibb.co/HD9P1Jbs" alt="Antigravity" height="50" />
+  <img style="margin: 10px" src="https://i.ibb.co/ycQVMcRj/antigravity.png" alt="Antigravity" height="50" />
 </a>
 
 <a href="https://www.anthropic.com/claude" target="_blank">
