@@ -105,7 +105,7 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </a>
 
 
-<a href="https://www.linkedin.com/in/alejandra-aragon-6a07541a4/" target="_blank">
+<a href="https://www.linkedin.com/in/alejandra-aragon-60857b3ba/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
