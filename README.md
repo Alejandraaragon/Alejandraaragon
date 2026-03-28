@@ -1,16 +1,18 @@
-                                     Hola, soy Alejandra 👋 | Frontend Developer 
+Hola, soy Alejandra 👋 | Frontend Developer 
+
 
 Creo productos digitales donde la estética y el código convergen. Mi pasión es el desarrollo Frontend, especializándome en construir experiencias de usuario memorables y visualmente sofisticadas.
 
 Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e-commerce en Shopify y WordPress. Utilizo Antigravity para elevar el diseño mediante movimiento y micro-interacciones, garantizando productos finales rápidos, escalables y visualmente impecables.
 
 
-## Technologias:
+
+## Habilidades:
 <table>
   <tr>
-    <td valign="top" width="25%" text-align="center">
+    <td valign="top" width="33%" text-align="center">
 
-### Front-end  
+### Tecnologias
 <div align="center">  
   
 <a href="https://reactjs.org/" target="_blank">
@@ -36,10 +38,10 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </div>
 
 </td>
-<td valign="top" width="25%" text-align="center">
+<td valign="top" width="33%" text-align="center">
 
 
-### Back-end  
+### CMS & Constructores  
 <div align="center">  
  
 <a href="https://nodejs.org/" target="_blank">
@@ -65,9 +67,9 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </div>
 
 </td>
-<td valign="top" width="25%" text-align="center">
+<td valign="top" width="33%" text-align="center">
 
-### Database 
+### Otras herramientas 
 <div align="center">  
  
 <a href="https://www.mongodb.com/" target="_blank">
