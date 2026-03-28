@@ -62,7 +62,7 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </a>
 
 <a href="https://elementor.com/" target="_blank">
- <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/elementor.svg" alt="Elementor" height="50" />
+ <img style="margin: 10px" src="[https://cdn.worldvectorlogo.com/logos/elementor.svg](https://ampforwp.com/wp-content/uploads/2020/03/icon-1-1024x1024.jpg)" alt="Elementor" height="50" />
 </a>
 
 <a href="https://crocoblock.com/" target="_blank">
