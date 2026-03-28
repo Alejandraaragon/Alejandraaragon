@@ -62,8 +62,11 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </a>
 
 <a href="https://elementor.com/" target="_blank">
- <img style="margin: 10px" src="https://simpleicons.org/icons/elementor.svg" alt="Elementor" height="50" />
+ <img style="margin: 10px; filter: invert(36%) sepia(90%) saturate(1265%) hue-rotate(305deg) brightness(92%) contrast(92%);" 
+     src="https://simpleicons.org/icons/elementor.svg" 
+     alt="Elementor" height="50" />
 </a>
+
 
 <a href="https://crocoblock.com/" target="_blank">
  <img style="margin: 10px" src="https://raw.githubusercontent.com/Crocoblock/crocoblock-assets/master/crocoblock-logo/crocoblock-icon.svg" alt="Crocoblock" height="50" />
