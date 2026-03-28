@@ -1,15 +1,11 @@
-                                     <<<<<   HOLA MUNDO!!!! 👋   >>>>>
+                                     Hola, soy Alejandra 👋 | Frontend Developer 
 
-Mi nombre es Alejandra 😍, una apasionada desarrolladora web con experiencia en Node.js, React, JavaScript, Ruby, Ruby On Rails, MongoDB, Y bases de datos SQL en general. Me encanta enfrentarme a desafios nuevos y encontrar soluciones creativas a problemas complejos.
+Creo productos digitales donde la estética y el código convergen. Mi pasión es el desarrollo Frontend, especializándome en construir experiencias de usuario memorables y visualmente sofisticadas.
 
-Mi camino hacia la programacion inició durante el 2021, a lo largo de este tiempo he venido estudiando sin parar y desarrollando proyectos propios y grupales, en los que he adquirido experiencia especialmente en el diseño, creacion y gestion de bases de datos SQL y NoSQL, junto a su respectiva conexion con el servidor. Tambien en relacion a Front-end he creado multiples proyectos utilizando distintos frameworks para hacer de la interfaz grafica una gran experiencia de usuario. Esta versatilidad me ha permitido trabajar en varios proyectos completos de principio a fin.
-
-Aunque tengo facilidad para trabajar de forma independiente soy una defensora del desarrollo agil y colaborativo 💛, considero que es la mejor forma de crear algo con resultados eficaces, ademas que es una gran forma de intercambiar conocimientos y de crear soluciones innovadoras. Me considero una aprendiz constante que siempre esta en busca de oportunidades para expandir mis conocimientos y mantenerme 💯% actualizada.
-
-💻 Desde Noviembre del 2022 trabajo en un Start Up relativamente nuevo, Adopt.ME con un grupo de programadores increibles. Sé que este camino recién empieza asi que espero poder contribuir con mi experiencia y habilidades como desarrolladora en futuros proyectos innovadores!! 
+Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e-commerce en Shopify y WordPress. Utilizo Antigravity para elevar el diseño mediante movimiento y micro-interacciones, garantizando productos finales rápidos, escalables y visualmente impecables.
 
 
-## Technologies:
+## Technologias:
 <table>
   <tr>
     <td valign="top" width="25%" text-align="center">
@@ -93,51 +89,6 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
  
 </div>
 
-</td>
-<td valign="top" width="25%" text-align="center">
-
-### DevOps  
-<div align="center">  
-  
-<a href="https://github.com/" target="_blank">
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-</a> 
-
-<a href="https://about.gitlab.com/" target="_blank">
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="Git-lab" height="50" />
-</a> 
-
-<a href="https://vercel.com/" target="_blank">
- <img style="margin: 10px" src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" alt="Vercel" height="50" />
-</a>  
-
-<a href="https://cloud.google.com/" target="_blank">
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
-</a>  
-   
-
-  
-</div>
-
-</td>
-<td valign="top" width="25%" text-align="center"> 
-  
-
-### Tools
-<div align="center">  
-
-<a href="https://trello.com/home" target="_blank">
- <img style="margin: 10px" src="https://a.trellocdn.com/prgb/dist/images/header-logo-2x.01ef898811a879595cea.png" alt="Logo de Trello" width="200" style="filter: brightness(30%);" alt="Trello" height="50" />
-</a>  
-   
-<a href="https://docs.google.com/spreadsheets/u/0/" target="_blank">
- <img style="margin: 10px" src="https://www.gstatic.com/images/branding/product/1x/apps_script_48dp.png" alt="Google_Sheets" height="50" />
-</a> 
-
-
-  
-</div>
-
 </td></tr></table>  
 
 <br/>  
@@ -154,6 +105,10 @@ Aunque tengo facilidad para trabajar de forma independiente soy una defensora de
 
 <a href="https://www.linkedin.com/in/alejandra-aragon-6a07541a4/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://wa.me/573170981811?text=Hola%20Alejandra,%20vi%20tu%20perfil%20y%20me%20gustaría%20hablar%20contigo%20sobre%20un%20proyecto" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" style="margin-bottom: 5px;" />
 </a>
  
 </div>  
