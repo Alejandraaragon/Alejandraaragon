@@ -10,7 +10,7 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 ## Habilidades:
 <table>
   <tr>
-    <td valign="top" width="33%" text-align="center">
+    <td valign="top" width="34%" text-align="center">
 
 ### Tecnologías
 <div align="center">  
@@ -39,7 +39,7 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </div>
 
 </td>
-<td valign="top" width="33%" text-align="center">
+<td valign="top" width="34%" text-align="center">
 
 
 ### CMS & Constructores  
@@ -68,7 +68,7 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 </div>
 
 </td>
-<td valign="top" width="33%" text-align="center">
+<td valign="top" width="34%" text-align="center">
 
 ### Otras herramientas 
 <div align="center">  
