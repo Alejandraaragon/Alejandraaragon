@@ -85,7 +85,7 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 ### Otras herramientas 
 <div align="center">  
  
-<!-- <a href="https://www.figma.com/" target="_blank">
+<a href="https://www.figma.com/" target="_blank">
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
 </a>
 
@@ -95,21 +95,9 @@ Domino un stack versátil que incluye React, HTML/CSS avanzado y soluciones de e
 
 <a href="https://www.anthropic.com/claude" target="_blank">
  <img style="margin: 10px" src="https://api.iconify.design/logos:anthropic-icon.svg" alt="Claude AI" height="50" />
-</a> -->
+</a> 
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
 
-  <a href="https://antigravity.lat/" target="_blank">
-    <img style="margin: 10px" src="https://antigravity.lat/wp-content/uploads/2023/03/logo-antigravity.png" alt="Antigravity" height="50" />
-  </a>
-
-  <a href="https://www.anthropic.com/claude" target="_blank">
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anthropic_logo.svg" alt="Claude AI" height="40" />
-  </a>
-
-  [PEGA AQUÍ EL BLOQUE DE CROCOBLOCK]
-
-</div>
 </div>
 
  
